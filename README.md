@@ -92,6 +92,12 @@ prompt = "What does the company Minio do and where is the HQ?"
 
 ---
 
+## 🧑‍💻 Author
+
+Made with ❤️ by Anas and ChatGPT 🙌
+
+---
+
 ## 🌐 License
 
 MIT License. Free to use, modify, and share.
